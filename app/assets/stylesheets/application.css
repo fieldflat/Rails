@@ -65,3 +65,8 @@ textarea{
 .command {
   font-size: 10px;
 }
+
+.delete {
+  font-size: 8px;
+  color: red;
+}
